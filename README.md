@@ -21,11 +21,18 @@ In this prototype, we have created two smart contracts in which we can execute a
 
 This is how contract looks after deploying on remix.
 
-![contractdeploy](https://github.com/atharvk47/Crowd-funding/assets/122916032/3ee4742a-e3f3-47de-95e9-beb13b96fcd0)
+![contractdeploy](https://github.com/atharvk47/Crowd-funding/assets/122916032/74582613-825d-47c9-a246-3cf82b6e0925)
 
 After funding, 0.2 ETH 
 
-![AfterFunding](https://github.com/atharvk47/Crowd-funding/assets/122916032/f4096468-0161-49df-b6ab-a391f9f3f623)
+![AfterFunding](https://github.com/atharvk47/Crowd-funding/assets/122916032/90bf1f1e-cc4c-491d-a55a-c634aefe5be2)
+
+After Withdrawal
+
+![AfterWithdraw](https://github.com/atharvk47/Crowd-funding/assets/122916032/2efc614c-e713-47cd-bacc-9ab745dbbb6c)
+
+
+
 
 
 
